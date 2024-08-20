@@ -1,3 +1,5 @@
+Check out the blog on this here : https://medium.com/@prayushshrestha89/exploring-restaurant-sales-data-a-fun-and-interactive-eda-tutorial-with-python-51bbbb93108c
+
 # EDARestaurantData
 
 This project is a comprehensive exploration of restaurant sales data using Python. It covers everything from loading and cleaning the data to performing exploratory data analysis (EDA) and visualizing key trends. Whether you're new to data science or looking for a fun project to sharpen your skills, this repo is for you!
